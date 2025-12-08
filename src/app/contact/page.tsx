@@ -12,7 +12,7 @@ export default function ContactPage() {
         <AnimatedContainer>
           <div className="mx-auto max-w-2xl space-y-8 rounded-2xl border border-border bg-background p-8">
             <p className="text-center text-lg text-muted">
-              I'm open to backend and full-stack roles, internships, freelance
+              I&apos;m open to backend and full-stack roles, internships, freelance
               work, and MVP building.
             </p>
 
