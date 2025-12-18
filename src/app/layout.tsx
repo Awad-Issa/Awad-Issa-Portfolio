@@ -17,7 +17,7 @@ const cairo = Cairo({
 })
 
 export const metadata: Metadata = {
-  title: "Awad Issa - Portfolio",
+  title: "Software Engineer | Full Stack (Spring Boot, React, Next.js) | REST APIs",
   description: "Professional portfolio of Awad Issa - Software Engineer",
 }
 
