@@ -18,7 +18,7 @@ const cairo = Cairo({
 
 export const metadata: Metadata = {
   title: "Awad Issa - Portfolio",
-  description: "Professional portfolio of Awad Issa - Full Stack Developer",
+  description: "Professional portfolio of Awad Issa - Software Engineer",
 }
 
 export default function RootLayout({
@@ -38,4 +38,5 @@ export default function RootLayout({
     </html>
   )
 }
+
 

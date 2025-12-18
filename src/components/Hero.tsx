@@ -21,7 +21,7 @@ export default function Hero() {
 
           <AnimatedContainer delay={0.1}>
             <p className="mb-8 text-xl text-muted sm:text-2xl">
-              Software Developer & Full Stack Developer
+              Software Engineer
             </p>
           </AnimatedContainer>
 

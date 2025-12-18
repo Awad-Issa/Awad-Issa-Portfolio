@@ -83,3 +83,4 @@ This project is configured for deployment on Vercel. Simply push to your reposit
 - Update skills in `src/app/page.tsx` and `src/app/about/page.tsx`
 - Customize colors in `tailwind.config.ts` and `src/styles/globals.css`
 
+
